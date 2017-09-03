@@ -1,0 +1,1 @@
+Para usar la clase simplemente coloque parte de su código en la clase Info.java junto con las otras clases que use. Para probar el código compile las clases y "java CalificarInfo". El programa le mostrara el resultado de su evaluación.
